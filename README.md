@@ -60,10 +60,3 @@ npm run preview
 - 异常行情场景为固定错误展示，加载场景持续展示以供评审观察，可手动恢复。
 - 当前没有后端持久化、多轮语义记忆或自动滚动聊天功能。
 
-## 开发过程与 Agent 对话记录
-
-本项目使用 Codex 辅助完成需求讨论、需求文档、代码实现及问题修复。
-
-[查看开发过程中与 Agent 的对话记录](https://chatgpt.com/s/cx_6addc5fa463c8191bef6fb3088224c39)
-
-需求文档见 [docs/requirements.md](docs/requirements.md)。
